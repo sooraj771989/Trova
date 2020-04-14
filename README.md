@@ -1,2 +1,0 @@
-# Trova
-Created with CodeSandbox
